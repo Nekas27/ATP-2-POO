@@ -18,7 +18,7 @@ public class Sistema {
         for(Veiculo veic : veiculos) {
             System.out.println(veic.mostrarDados());
         }
-        System.out.println("UM Total de: " + this.veiculos.size() + " foram adicionados!");
+        System.out.println("Um Total de: " + this.veiculos.size() + " foram adicionados!");
     }
 
     public void excluirVeiculo(String modelo){
