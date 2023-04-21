@@ -100,7 +100,7 @@ public class Sistema {
         Sistema sist = new Sistema();
 
             Carros c1 = new Carros("320i", "BMW", 2022);
-            Motos m1 = new Motos("XRE300", "Honda", 2028  );
+            Motos m1 = new Motos("XRE300", "Honda", 2028);
             
             sist.adicionarVeiculo(c1);
             sist.adicionarVeiculo(m1);
