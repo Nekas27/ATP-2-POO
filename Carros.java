@@ -10,8 +10,4 @@ public class Carros extends Veiculo {
         super(modelo,marca,ano);
         this.estilo = "Carro";
     }
-
-   
-    
-
 }
