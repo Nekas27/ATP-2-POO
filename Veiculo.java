@@ -50,10 +50,5 @@ public abstract class Veiculo implements Serializable {
 
     public void setAno(int ano) {
         this.ano = ano;
-    }
-
-  
-
-    
-    
+    }   
 }
